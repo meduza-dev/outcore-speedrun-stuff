@@ -1,0 +1,53 @@
+TurnLeft()
+TurnLeft()
+MoveForward()
+MoveForward()
+
+while(true)
+{
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+
+	TurnRight()
+
+	MoveForward()
+	MoveForward()
+
+	TurnRight()
+	TurnRight()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+
+	TurnLeft()
+
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+
+	DoNothing()
+	DoNothing()
+	DoNothing()
+	DoNothing()
+	DoNothing()
+
+	TurnLeft()
+	MoveForward()
+	MoveForward()
+	MoveForward()
+	TurnLeft()
+
+}
